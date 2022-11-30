@@ -11,5 +11,3 @@ Proyecto sobre robotica
 ## [3.- Modulo 3: Programación básica 2](/Modulos/modulo2.md)
 
 ## [4.- Modulo 4: Ampliación](/Modulos/modulo2.md)
-
-## [5.- Proyecto](/Modulos/modulo2.md)
