@@ -23,6 +23,6 @@ Proyecto sobre robotica
 
 - [Modulo 4](/Modulos/modulo2.md)
 
-## 5.- 5.- Proyecto:
+## 5.- Proyecto:
 
 - [Modulo 5](/Modulos/modulo2.md)
