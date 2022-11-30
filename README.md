@@ -7,7 +7,7 @@ Proyecto sobre robotica
 
 ## 1.- Módulo1: La placa Microbit y sus elementos
 
-- [Modulo 1] (/modulos/modulo1.md)
+- [Modulo 1](/modulos/modulo1.md)
 
 ## 2.- Módulo2: Programación básica  1
 
