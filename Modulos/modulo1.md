@@ -1,7 +1,9 @@
-# Ejercicio 1
+# Modulo 1
 
-## Mostrar cara feliz y triste
+## La placa Microbit y sus elementos
 
-En la primera practica hemos realizado dos botones, A y B, los cuales al pursarlos muestran una cara feliz y triste respectivamente.
+- [Ejercico 1](/ejercicios/modulo1ejercicio1.md)
 
-![actividad1](imagenes/modulo1_actividad1.png)
+- [Ejercico 2](/ejercicios/modulo1ejercicio2.md)
+
+- [Ejercico 3](/ejercicios/modulo1ejercicio3.md)
