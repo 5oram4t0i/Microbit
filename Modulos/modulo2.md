@@ -1,9 +1,9 @@
-# Modulo 3
+# Modulo 2
 
 ## Programación básica
 
-- [Ejercico 1](/ejercicios/modulo3ejercicio1.md)
+- [Ejercico 1](/ejercicios/modulo2ejercicio1.md)
 
-- [Ejercico 2](/ejercicios/modulo3ejercicio2.md)
+- [Ejercico 2](/ejercicios/modulo2ejercicio2.md)
 
-- [Ejercico 3](/ejercicios/modulo3ejercicio3.md)
+- [Ejercico 3](/ejercicios/modulo2ejercicio3.md)
