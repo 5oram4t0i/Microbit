@@ -2,8 +2,6 @@
 
 ## 
 
-- [Ejercico 1](/ejercicios/modulo5ejercicio1.md)
+- [Vídeo explicación de la brújula](https://youtu.be/BHAP2FXxbQ8)
 
-- [Ejercico 2](/ejercicios/modulo5ejercicio2.md)
-
-- [Ejercico 3](/ejercicios/modulo5ejercicio3.md)
+- [Vídeo explicación de la mascota virtual](https://youtu.be/Xin7TV8gqcg)

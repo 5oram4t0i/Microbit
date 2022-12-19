@@ -7,3 +7,4 @@ Creamos una mascota que ante respuestas tactiles y agitar se pone feliz y el con
 ![actividad1](/imagenes/modulo4_actividad_mascota.png)
 
 - [Codigo](/archivos/microbit-Modulo3_Actividad_Mascota.hex)
+
