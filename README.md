@@ -14,6 +14,8 @@ Proyecto sobre robotica
 
 ## [5.- Proyecto](/Modulos/modulo5.md)
 
+## Participantes
+Este trabajo está realizado por José Miguel González Alba y Jesús González Alba.
 
 ## Licencia
 
