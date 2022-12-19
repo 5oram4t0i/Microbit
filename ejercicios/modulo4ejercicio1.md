@@ -8,4 +8,4 @@ Hemos creado una brújula que, al presionar el botón A borra la pantallay muest
 
 - [Codigo](/archivos/microbit-Modulo4_Actividad1.hex)
 
-[Vídeo explicación](https://youtu.be/BHAP2FXxbQ8)
+
